@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SqliteApp</string>
+    <string name="addcourse">AddCourse</string>
+    <string name="done">Done</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last Name</string>
+    <string name="cwid">CWID</string>
+</resources>
